@@ -68,6 +68,6 @@ This challenge primarily deals with Pandas to create and manipulate DataFrames a
     Based on these tables, we can observe a couple trends. Charter schools perform better than District schools. 
     The five best-performing schools are charter schools, while the five worst-performing schools are district schools. 
     Larger schools (2000-5000 students) have lower averages and less passing students than Small or Medium schools, 
-    which makes sense since larger schools have a bigger student to teacher ratio. It also appears that math and reading scores are higher 
-    when spending per student is lower. I believe that conincides with school size. Smaller schools have a smaller budget, but teachers have 
-    less students, therefore teachers can afford to spend more time with individual students.
+    which makes sense since larger schools have a bigger student to teacher ratio. It also appears that math and reading scores 
+    are higher when spending per student is lower. I believe that conincides with school size. Smaller schools have a smaller budget, 
+    but teachers have less students, therefore teachers can afford to spend more time with individual students.
