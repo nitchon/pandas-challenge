@@ -31,7 +31,8 @@ This challenge primarily deals with Pandas to create and manipulate DataFrames a
     - % overall passing (the percentage of students who passed math AND reading)
 
 ## Highest-Performing Schools (by % Overall Passing)
-    Using the school summary and Pandas sort function, the five best-performing schools by % overall passing are:
+    Using the school summary and Pandas sort function, the five best-performing schools 
+    by % overall passing are:
 
     - Cabrera High School
     - Thomas High School
@@ -40,7 +41,8 @@ This challenge primarily deals with Pandas to create and manipulate DataFrames a
     - Pena High School
 
 ## Lowest-Performing Schools (by % Overall Passing)
-    Using the school summary and Pandas sort function, the five worst-performing schools by % overall passing are:
+    Using the school summary and Pandas sort function, the five worst-performing schools 
+    by % overall passing are:
 
     - Rodriguez High School
     - Figueroa High School
@@ -49,11 +51,13 @@ This challenge primarily deals with Pandas to create and manipulate DataFrames a
     - Johnson High School 	
 
 ## Math and Reading Scores by Grade
-    These two DataFrames lists the average math and reading scores broken down by grade level at each school in the dataset.
+    These two DataFrames lists the average math and reading scores broken down by grade level at 
+    each school in the dataset.
 
 
 ## Scores by School Spending, School Size and School Type
-    Using bins and bin labels, these tables break down school perfomance based on spending, size and type listing the following metrics:
+    Using bins and bin labels, these tables break down school perfomance based on spending, size and type 
+    listing the following metrics:
 
     - Average math score
     - Average reading score
